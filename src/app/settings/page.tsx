@@ -225,13 +225,7 @@ export default function Orders() {
             <BreadcrumbList>
               <BreadcrumbItem>
                 <BreadcrumbLink asChild>
-                  <Link href="#">Dashboard</Link>
-                </BreadcrumbLink>
-              </BreadcrumbItem>
-              <BreadcrumbSeparator />
-              <BreadcrumbItem>
-                <BreadcrumbLink asChild>
-                  <Link href="#">Orders</Link>
+                  <Link href="#">Settings</Link>
                 </BreadcrumbLink>
               </BreadcrumbItem>
             </BreadcrumbList>
